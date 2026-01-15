@@ -1,0 +1,5 @@
+{
+  "name": "ConversorMoneda - Currency Converter",
+  "description": "A gamified, Duolingo-styled currency converter with AI-powered market insights and travel tips.",
+  "requestFramePermissions": []
+}
