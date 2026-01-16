@@ -1,20 +1,39 @@
+# 💱 Conversor de moneda
+
+Aplicación web para conversión de divisas en tiempo real con historial de tasas y gráficos interactivos. Proyecto desarrollado con asistencia de IA como ejercicio de aprendizaje y exploración de tecnologías modernas.
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img src="./screenshots/pc-inicio-oscuro.png" alt="Vista Desktop" width="57%">
+  <img src="./screenshots/movil-grafica.png" alt="Vista Mobile" width="18%" style="margin-left: 10px;" >
 </div>
 
-# Run and deploy your AI Studio app
+<hr>
 
-This contains everything you need to run your app locally.
+<div align="center">
+  <img src="./screenshots/pc-inicio.png" alt="Vista Desktop" width="57%">
+  <img src="./screenshots/movil-grafica-claro.png" alt="Vista Mobile" width="19%" style="margin-left: 10px;" >
+</div>
 
-View your app in AI Studio: https://ai.studio/apps/drive/1S1-fe4GsAibFtxDS6wJ4tB3YwTgEUvuY
+<hr>
 
-## Run Locally
+<div align="center">
 
-**Prerequisites:**  Node.js
+  <img src="./screenshots/movil-inicio-o.png" alt="Vista Mobile" width="20%" style="margin-left: 10px;" >
+  <img src="./screenshots/movil-grafica-o.png" alt="Vista Mobile" width="20%" style="margin-left: 10px;" >
+  <img src="./screenshots/movil-favoritos.png" alt="Vista Mobile" width="22%" style="margin-left: 10px;" >
+  <img src="./screenshots/movil-ajustes.png" alt="Vista Mobile" width="20%" style="margin-left: 10px;" >
+</div>
+
+## 🚀 Demo
+
+🔗 **[Ver demo en vivo](https://dgs-conversor.netlify.app/)**
+
+## ⚠️ Nota de Desarrollo
+
+Este proyecto fue generado inicialmente con Google AI Studio (Gemini) como base de aprendizaje para explorar:
+- Integración de múltiples APIs REST
+- Visualización de datos con gráficos interactivos
+- Implementación de temas claro/oscuro
+- Diseño responsive
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
